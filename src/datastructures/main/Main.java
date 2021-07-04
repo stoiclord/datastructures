@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		System.out.println("Start implementing all the data structures in Java");
+		
 	}
 
 }
