@@ -7,6 +7,7 @@
 ### HashTable
 
 ### Tree
+- Binary Tree
 
 ### Trie
 
