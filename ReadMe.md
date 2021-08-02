@@ -22,3 +22,6 @@
 ### Queue
 
 ### Stack
+
+#### References
+- https://github.com/trekhleb/javascript-algorithms#data-structures 
